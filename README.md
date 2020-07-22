@@ -1,9 +1,6 @@
-You are a data scientist who wishes to make it big by becoming a football club manager. A rich club has decided to hire you as their manager. You have all the money to build a team from scratch.
-
 The aim is to find out the best squad for the upcoming football championship.
 
 In this project,the following concepts are used:
-
 Train-test split
 Correlation between the features
 Linear Regression
