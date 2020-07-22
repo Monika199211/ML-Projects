@@ -1,10 +1,12 @@
 <H2><B> FIFA Linear Regression: </B> </H2>
 The aim is to find out the best squad for the upcoming football championship.
 In this project, the following concepts are used:
+<li>
 •	Train-test split
 •	Correlation between the features
 •	Linear Regression
 •	MSE and R squared Evaluation Metrics
+ </li>
 
 <H2><B> Medical Insurance </B> </H2>
 Medical Costs: How your profile affects your medical charges?
